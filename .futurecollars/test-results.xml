@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" time="2.422">
+  <testsuite name="Funkcja rectangleArea" errors="0" failures="0" skipped="0" timestamp="2021-04-14T15:59:16" time="0.972" tests="3">
+    <testcase classname="Funkcja rectangleArea powinna zwracać liczbę" name="Funkcja rectangleArea powinna zwracać liczbę" time="0.002">
+    </testcase>
+    <testcase classname="Funkcja rectangleArea powinna zwrócić poprawne pole prostokąta" name="Funkcja rectangleArea powinna zwrócić poprawne pole prostokąta" time="0">
+    </testcase>
+    <testcase classname="Funkcja rectangleArea powinna zwrócić wartość NaN gdy parametry są nieprawidłowe" name="Funkcja rectangleArea powinna zwrócić wartość NaN gdy parametry są nieprawidłowe" time="0.001">
+    </testcase>
+  </testsuite>
+</testsuites>
